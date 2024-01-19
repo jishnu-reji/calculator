@@ -1,0 +1,40 @@
+body{
+    background-color: #495057f0;
+}
+.btt{
+    background-color:#343a40;
+    
+}
+.inn{
+    background-color: #212529;
+    padding: 0 12px;
+}
+.card{
+    border: black;
+}
+.calc{
+    display: flex;
+    align-items: center;
+}
+button{
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+    background-color: #343a40;
+}
+.button{
+    width: 75px;
+    height: 60px;
+}
+.eql-button{
+    background-color: green;
+    color: rgb(0, 0, 0);
+}
+.opr-button{
+    background-color: aquamarine;
+    color: black;
+}
+.in{
+    height: 90px;
+    width: 300px;
+}
